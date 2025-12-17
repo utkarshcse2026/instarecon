@@ -2,6 +2,7 @@
 
 Automated log of daily development activity.
 
+- `2025-12-17` — General maintenance pass
 - `2025-12-03` — Verified edge-case handling
 - `2025-10-10` — Stabilised core logic
 - `2025-10-07` — Minor performance improvements
