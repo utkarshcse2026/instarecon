@@ -2,6 +2,7 @@
 
 Automated log of daily development activity.
 
+- `2026-03-26` — Enhanced error messaging
 - `2026-03-01` — Updated project structure
 - `2026-02-17` — Cleaned up unused imports
 - `2026-02-15` — Updated helper utilities
