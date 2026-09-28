@@ -2,6 +2,7 @@
 
 Automated log of daily development activity.
 
+- `2025-10-29` — Enhanced error messaging
 - `2025-10-16` — Improved documentation and comments
 - `2026-09-24` — Optimised repeated code patterns
 - `2026-09-11` — Validated core workflows
